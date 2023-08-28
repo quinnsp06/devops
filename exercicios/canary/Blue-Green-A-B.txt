@@ -1,0 +1,3 @@
+https://medium.com/@lbernardo.brito/deploy-blue-green-com-istio-e-kubernetes-695fc7c2b203
+
+Testes Blue/Green - A/B com Istio
